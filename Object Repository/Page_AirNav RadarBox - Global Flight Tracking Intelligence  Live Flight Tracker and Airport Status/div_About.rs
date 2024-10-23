@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_About</name>
+   <tag></tag>
+   <elementGuidId>af318371-6123-411f-bd87-56839b133827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Justplanes and RadarBox partnership'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e5a0dd9-1b2f-4e92-8851-8db80efbbd40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ListItemLabel</value>
+      <webElementGuid>8c47d707-eadd-442b-8feb-4f2dd25d54c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About</value>
+      <webElementGuid>9a1a5c65-94d0-4f91-a382-119de1996460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/header[1]/div[@class=&quot;sc-XxOsz sQArU transparent&quot;]/nav[@class=&quot;sc-iAKVOt gwzDgV&quot;]/ul[@class=&quot;sc-hBURRC kQUxvR List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-egiSv hZbsoo ListItem sc-bqiQRQ imPtOh top-level NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]</value>
+      <webElementGuid>ae22caaa-4ec8-4423-b73b-3826666eeec8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Justplanes and RadarBox partnership'])[1]/following::div[1]</value>
+      <webElementGuid>2d1ac196-16a3-453d-9fa2-974a3fdd4b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Airport Livestreams'])[1]/following::div[1]</value>
+      <webElementGuid>10bd6271-e11a-40cf-8e4d-de6c89b6455e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Company'])[1]/preceding::div[1]</value>
+      <webElementGuid>8593cbf5-fb3f-4ff0-af03-44596aa75558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div</value>
+      <webElementGuid>01060e30-41c7-4649-adda-e8d6dcb7bc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'About' or . = 'About')]</value>
+      <webElementGuid>1f7dadb0-50cd-48c2-8085-15f6713b2a6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

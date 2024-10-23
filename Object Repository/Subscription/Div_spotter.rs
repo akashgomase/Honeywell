@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Div_spotter</name>
+   <tag></tag>
+   <elementGuidId>26a57082-dc64-445e-bc28-5d85898605f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='plans big']//div[@class='spotter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#content > input[type=&quot;text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4992cfaa-6679-4963-a083-aa909970ba72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>56f79c5f-0bed-4e21-bfbe-e8392c5345d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Origin</value>
+      <webElementGuid>e3402b78-868f-4396-888e-616e2d88c068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;by-route-container&quot;)/div[@class=&quot;sc-1fe02i9-0 hIfRqH&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;j9s0bi-1 ohdmw DropdownHeader sc-1qe11rp-0 jUOGgE&quot;]/div[@id=&quot;content&quot;]/input[1]</value>
+      <webElementGuid>968b4368-0779-4cfe-84a3-ba2e40808ea6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>0bfd6db0-7139-42e8-b207-f81dcbb64e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/input</value>
+      <webElementGuid>1f400c47-0b36-4de6-bd38-1f3e6d70cc30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/input</value>
+      <webElementGuid>77b4b9a3-f20f-4849-8577-9ca5585e1251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Origin']</value>
+      <webElementGuid>56768e32-5e11-4bc1-949b-6b185a64fa3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Searched_flights_list</name>
+   <tag></tag>
+   <elementGuidId>f1ca1491-3868-4d66-a8e0-75fe08a841f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;flights&quot;]/li[2]/div/div/ul/li/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-6kgwbi-0.nzh38x-0.gimQqx.eCigcB</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69565bee-9f15-4f86-89ae-12fc6a6459d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-6kgwbi-0 nzh38x-0 gimQqx eCigcB</value>
+      <webElementGuid>118fdcdb-be42-4b07-83db-f44125405330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pune (PNQ/VAPO)Pune Airport</value>
+      <webElementGuid>41386c49-9a9b-4527-b751-23defbe6f1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/div[13]/div[@class=&quot;dropdown&quot;]/ul[@class=&quot;sc-1p7f10g-0 laNfcV&quot;]/li[@class=&quot;highlighted&quot;]/div[@class=&quot;sc-6kgwbi-0 nzh38x-0 gimQqx eCigcB&quot;]</value>
+      <webElementGuid>74563d94-e5ac-4596-b3f7-bb943bb3bca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media'])[1]/following::div[11]</value>
+      <webElementGuid>0fdfe0f1-f9b2-4fac-a807-a6e318dfb5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='learn more'])[1]/following::div[17]</value>
+      <webElementGuid>446e69ee-a990-4546-a4b8-838b8e6f908f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/ul/li/div</value>
+      <webElementGuid>25ca4f83-71db-41c8-97f7-97f07021f79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pune (PNQ/VAPO)Pune Airport' or . = 'Pune (PNQ/VAPO)Pune Airport')]</value>
+      <webElementGuid>201789bc-7677-442d-9f9a-1c6edc536b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

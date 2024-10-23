@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Photos</name>
+   <tag></tag>
+   <elementGuidId>46c42d5b-7b63-4190-904f-12ad34d3eece</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80d0c1a5-36f1-4305-8f2a-f41e16eaccce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ListItemLabel</value>
+      <webElementGuid>deed5a97-4657-4067-8a4e-7d6e987fe866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Photos</value>
+      <webElementGuid>98f368c9-af24-446f-b0eb-2eadf92fcd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/header[1]/div[@class=&quot;sc-XxOsz sQArU transparent&quot;]/nav[@class=&quot;sc-iAKVOt gwzDgV&quot;]/ul[@class=&quot;sc-hBURRC kQUxvR List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-egiSv hZbsoo ListItem sc-bqiQRQ imPtOh top-level NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]</value>
+      <webElementGuid>ff72961a-ccec-49f2-961c-25df06b4f73d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/following::div[1]</value>
+      <webElementGuid>bd2dca8d-53cd-4f74-ba37-2582b4b03f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pricing'])[1]/following::div[1]</value>
+      <webElementGuid>01826f9d-1146-49e7-a086-f4c86b33e6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gallery home'])[1]/preceding::div[1]</value>
+      <webElementGuid>cb1b03e7-b0d1-4498-94b4-65981b04ed6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/div</value>
+      <webElementGuid>95c2ade2-d2c6-4eff-bc79-87b1ad07e013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Photos' or . = 'Photos')]</value>
+      <webElementGuid>6f6d3c22-b09b-48b5-9fe3-d11fc9fecd1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

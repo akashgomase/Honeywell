@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Media_banner-image</name>
+   <tag></tag>
+   <elementGuidId>de52984f-12a0-44d8-a5db-e51fc5a080cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[11]/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.banner-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>401bb930-5486-47a7-a1ba-c63ba6682704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>banner-image</value>
+      <webElementGuid>aae8ab29-000a-4e96-9c35-942b3a1fb9fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/twitter_banner_x_2.jpg</value>
+      <webElementGuid>319a3e38-502e-4c65-9429-780dae45593f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/div[11]/div[@class=&quot;sc-15dps6c-0 kojzsp is6tih-0 cMSGbb modal-component open&quot;]/div[@class=&quot;content&quot;]/a[1]/img[@class=&quot;banner-image&quot;]</value>
+      <webElementGuid>93cf09ce-4239-47ea-b427-a5b36518a9fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/a/img</value>
+      <webElementGuid>8424eb0d-cc32-46b3-87df-3652bd5467aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/twitter_banner_x_2.jpg']</value>
+      <webElementGuid>a54955ff-cb0a-4802-8ac6-dd4085a79da6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

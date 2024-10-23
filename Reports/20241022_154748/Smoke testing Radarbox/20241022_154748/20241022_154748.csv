@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Smoke testing Radarbox,Chrome 130.0.0.0,,,2024-10-22 15:48:04,2024-10-22 15:50:29,2m - 24.790s,FAILED
+,,,,,,,
+Test Cases/Navigation/Navigate to radarbox,Chrome 130.0.0.0,,,2024-10-22 15:48:05,2024-10-22 15:48:20,14.928s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,2024-10-22 15:48:06,2024-10-22 15:48:12,5.653s,PASSED
+navigateToUrl(URL),Chrome 130.0.0.0,,,2024-10-22 15:48:12,2024-10-22 15:48:20,8.027s,PASSED
+waitForPageLoad(30),Chrome 130.0.0.0,,,2024-10-22 15:48:20,2024-10-22 15:48:20,0.341s,PASSED
+,,,,,,,
+Test Cases/Test cases/Navigate to radarbox and verify loading of website,Chrome 130.0.0.0,,,2024-10-22 15:48:20,2024-10-22 15:48:28,8.243s,FAILED
+"callTestCase(findTestCase(""Navigation/Navigate to radarbox""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:48:21,2024-10-22 15:48:28,6.915s,FAILED
+,,,,,,,
+Test Cases/Test cases/Validate headers on radarbox website,Chrome 130.0.0.0,,,2024-10-22 15:48:28,2024-10-22 15:48:52,23.450s,PASSED
+"callTestCase(findTestCase(""Navigation/Navigate to radarbox""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:48:29,2024-10-22 15:48:40,10.451s,PASSED
+"waitForElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/a_Subscriptions""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:40,2024-10-22 15:48:42,2.176s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/a_Subscriptions""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:42,2024-10-22 15:48:43,1.349s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_About""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:43,2024-10-22 15:48:45,1.370s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_API""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:45,2024-10-22 15:48:45,0.665s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Coverage""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:45,2024-10-22 15:48:46,0.858s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_History""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:46,2024-10-22 15:48:47,0.736s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Media_content""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:47,2024-10-22 15:48:48,0.625s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Media_splash-close-container""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:48,2024-10-22 15:48:48,0.606s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Photos""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:48,2024-10-22 15:48:49,0.683s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Solutions""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:49,2024-10-22 15:48:50,0.746s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Statistics""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:50,2024-10-22 15:48:50,0.586s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_SocialPress""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:48:50,2024-10-22 15:48:52,1.478s,PASSED
+,,,,,,,
+Test Cases/Test cases/Verify Search by airports,Chrome 130.0.0.0,,,2024-10-22 15:48:52,2024-10-22 15:49:12,20.672s,PASSED
+"callTestCase(findTestCase(""Navigation/Navigate to radarbox""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:48:54,2024-10-22 15:49:06,12.007s,PASSED
+"click(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/button_Contact Us_sc-bTfYlY lnWyFR""))",Chrome 130.0.0.0,,,2024-10-22 15:49:06,2024-10-22 15:49:08,2.678s,PASSED
+"sendKeys(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/input_text""), Airport)",Chrome 130.0.0.0,,,2024-10-22 15:49:08,2024-10-22 15:49:10,1.614s,PASSED
+"verifyElementPresent(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/div_Airports containing Airport name""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:49:10,2024-10-22 15:49:12,2.325s,PASSED
+,,,,,,,
+Test Cases/Test cases/Verify Search by entering source and destination,Chrome 130.0.0.0,,,2024-10-22 15:49:12,2024-10-22 15:49:48,35.568s,PASSED
+"callTestCase(findTestCase(""Navigation/Navigate to radarbox""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:49:15,2024-10-22 15:49:30,15.588s,PASSED
+"click(findTestObject(""Page_AirNav RadarBox - Global Flight Tracking Intelligence  Live Flight Tracker and Airport Status/button_Contact Us_sc-bTfYlY lnWyFR""))",Chrome 130.0.0.0,,,2024-10-22 15:49:30,2024-10-22 15:49:33,2.220s,PASSED
+"click(findTestObject(""Search/label_More Search Options""), STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:49:33,2024-10-22 15:49:34,1.639s,PASSED
+"sendKeys(findTestObject(""Search/input_text_source""), Source)",Chrome 130.0.0.0,,,2024-10-22 15:49:34,2024-10-22 15:49:36,1.311s,PASSED
+"click(findTestObject(""Search/div_Pune (PNQVAPO)Pune Airport""))",Chrome 130.0.0.0,,,2024-10-22 15:49:36,2024-10-22 15:49:37,1.792s,PASSED
+"sendKeys(findTestObject(""Search/input_text_destination""), Destination)",Chrome 130.0.0.0,,,2024-10-22 15:49:37,2024-10-22 15:49:39,1.939s,PASSED
+"click(findTestObject(""Search/div_Mumbai (BOMVABB)Chhatrapati Shivaji International Airport""))",Chrome 130.0.0.0,,,2024-10-22 15:49:39,2024-10-22 15:49:41,1.412s,PASSED
+"click(findTestObject(""Search/button_Search""))",Chrome 130.0.0.0,,,2024-10-22 15:49:41,2024-10-22 15:49:42,1.232s,PASSED
+"waitForElementPresent(findTestObject(""Search/div_Searched_flights_list""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:49:42,2024-10-22 15:49:45,3.199s,PASSED
+"verifyElementPresent(findTestObject(""Search/div_Searched_flights_list""), 0)",Chrome 130.0.0.0,,,2024-10-22 15:49:45,2024-10-22 15:49:48,2.669s,PASSED
+,,,,,,,
+Test Cases/Test cases/Verify Subscription page,Chrome 130.0.0.0,,,2024-10-22 15:49:48,2024-10-22 15:50:29,41.235s,FAILED
+"callTestCase(findTestCase(""Test cases/Navigate to radarbox and verify loading of website""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,2024-10-22 15:49:51,2024-10-22 15:50:29,38.297s,FAILED

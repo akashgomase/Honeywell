@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate headers on radarbox website</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1ba747c-949a-472c-b00e-316a4c6ea2ed</testCaseGuid>
+</TestCaseEntity>
